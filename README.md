@@ -8,6 +8,8 @@
 
 ## Описание
 Tic Tac Toe — это игра на поле 3×3, где два игрока по очереди ставят X или O. Цель — первым выстроить три своих символа в ряд по горизонтали, вертикали или диагонали.
+<img width="646" height="714" alt="image" src="https://github.com/user-attachments/assets/fc1eee4a-1ae2-4696-8fb7-a778a10615fd" />
+<img width="646" height="714" alt="image" src="https://github.com/user-attachments/assets/7dc0bb61-ccd5-472d-bc27-43179dba7b64" />
 
 ## Как играть
 1. Игроки выбирают X или O.
